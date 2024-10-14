@@ -1,0 +1,9 @@
+.main-block{
+    display: grid;
+    grid-template-columns: repeat(auto, minmax=250px, 1fr);
+    display: flex;
+
+    justify-content:space-around;
+    height: auto
+    width: auto; 
+}
